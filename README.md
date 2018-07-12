@@ -1,7 +1,8 @@
 # Handlebars express boilerplate
 
 Boilerplate code for developing websites in handlebars with an express API and SCSS for styling.
-------
+
+--------
 
 ### Architecture
 ```
